@@ -79,7 +79,9 @@ The plot will be saved as `sorting_comparison.png`.
 
 ---
 
-## 📈 Key Findings (from Report)
+![Plot](sorting_comparison.png)
+
+## 📈 Key Findings
 
 * **Heapsort**: Deterministic `O(n log n)` runtime, space-efficient but slower due to reheapification.
 * **Quicksort**: Fastest in practice on random data due to in-place implementation and low overhead.
